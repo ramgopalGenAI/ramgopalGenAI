@@ -1,7 +1,7 @@
  <img src="https://github.com/ramgopalGenAI/ramgopalGenAI/blob/main/Ram.png" alt="github-header-image" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Generative+AI+Enthusiast;Aspiring+AI+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Aspiring+Data+Scientist+%26+Developer" alt="Typing SVG" />
 </p>
 
 
