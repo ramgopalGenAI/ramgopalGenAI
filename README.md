@@ -40,7 +40,7 @@
   <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30" alt="LinkedIn" style="border-radius: 8px;"/>
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="mailto:[gopalram781@gmail.com]" target="_blank">
+<a href="mailto:gopalram781@gmail.com" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="30" alt="Gmail" style="border-radius: 8px;"/>
 </a>
 &nbsp;&nbsp;&nbsp;
