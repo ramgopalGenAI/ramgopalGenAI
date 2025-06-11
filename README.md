@@ -94,9 +94,9 @@
 <h2>🎯 Areas of Interest  </h2>
 <table>
   <tr>
-    <td align="center">Generative AI</td>
-    <td align="center">AI Engineering</td>
-    <td align="center">MLOps</td>
+    <td align="center">Data Science</td>
+    <td align="center">Machine Learning</td>
+    <td align="center">Software Development Engineer</td>
   </tr>
 </table>
 
