@@ -1,9 +1,6 @@
- <img src="https://github.com/ramgopalGenAI/ramgopalGenAI/blob/main/Ram.png" alt="github-header-image" width=100% height=150px/>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Aspiring+Data+Scientist+%26+Developer" alt="Typing SVG" />
 </p>
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ramgopalGenAI&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -21,7 +18,7 @@
       <p> 🌱 Currently learning <strong>Advanced Langchain | RAG Architectures | Azure AI</strong></p>
       <p> 💡 Eager to collaborate on innovative AI projects.</p>
       <p> 💬 Ask me about <strong>Python, Generative AI, and Cloud Platforms</strong></p>
-      <p> 📫 Reach me at: <strong><a href="[YOUR LINKEDIN PROFILE URL]">LinkedIn</a></strong></p>
+      <p> 📫 Reach me at: <strong><a href="YOUR LINKEDIN PROFILE URL">LinkedIn</a></strong></p>
       <p> ⚡ I enjoy <strong>reading tech blogs and exploring new AI models</strong></p>
     </td>
     <td style="text-align: center;">
@@ -34,7 +31,7 @@
 
 <div align="center">
 
-### 🌐 Connect with Me  
+### 🌐 Connect with Me
 
 <a href="https://www.linkedin.com/in/ramgopal10/" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30" alt="LinkedIn" style="border-radius: 8px;"/>
@@ -44,7 +41,7 @@
   <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="30" alt="Gmail" style="border-radius: 8px;"/>
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://x.com/[YOUR-TWITTER-HANDLE]" target="_blank">
+<a href="https://x.com/YOUR-TWITTER-HANDLE" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/twitter.png" width="30" alt="Twitter" style="border-radius: 8px;"/>
 </a>
 
