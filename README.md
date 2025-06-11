@@ -18,7 +18,7 @@
       <p> 🌱 Currently learning <strong>Advanced Langchain | RAG Architectures | Azure AI</strong></p>
       <p> 💡 Eager to collaborate on innovative AI projects.</p>
       <p> 💬 Ask me about <strong>Python, Generative AI, and Cloud Platforms</strong></p>
-      <p> 📫 Reach me at: <strong><a href="YOUR LINKEDIN PROFILE URL">LinkedIn</a></strong></p>
+      <p> 📫 Reach me at: <strong><a href="https://www.linkedin.com/in/ramgopal10/">LinkedIn</a></strong></p>
       <p> ⚡ I enjoy <strong>reading tech blogs and exploring new AI models</strong></p>
     </td>
     <td style="text-align: center;">
