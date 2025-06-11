@@ -36,7 +36,7 @@
 
 ### 🌐 Connect with Me  
 
-<a href="[YOUR LINKEDIN PROFILE URL]" target="_blank">
+<a href="https://www.linkedin.com/in/ramgopal10/" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30" alt="LinkedIn" style="border-radius: 8px;"/>
 </a>
 &nbsp;&nbsp;&nbsp;
