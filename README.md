@@ -1,4 +1,4 @@
- <img src="https://github.com/ramgopalGenAI/ramgopalGenAI/blob/main/Ram.png" alt="github-header-image" width=1280px height=340px/>
+ <img src="https://github.com/ramgopalGenAI/ramgopalGenAI/blob/main/Ram.png" alt="github-header-image" max-width:100%; height=340px/>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Aspiring+Data+Scientist+%26+Developer" alt="Typing SVG" />
